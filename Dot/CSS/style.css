@@ -1,0 +1,23 @@
+* {
+  font:Roboto;
+  background: white;
+  font-color: black;
+  box-sizing: border-box;
+}
+
+#dot {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  border-radius: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /*visibility: hidden;*/
+
+}
+
+h1, h2 {
+  text-align: center;
+}
